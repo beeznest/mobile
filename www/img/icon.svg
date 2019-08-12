@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/var/www/mobile/www/img/icon.png"
+   inkscape:export-xdpi="150.00002"
+   inkscape:export-ydpi="150.00002">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1096">
+      <stop
+         style="stop-color:#d0ff2c;stop-opacity:1"
+         offset="0"
+         id="stop1092" />
+      <stop
+         style="stop-color:#96bd0d;stop-opacity:1"
+         offset="1"
+         id="stop1094" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1096"
+       id="radialGradient1098"
+       cx="104.86636"
+       cy="124.97382"
+       fx="104.86636"
+       fy="124.97382"
+       r="15.875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-87.696259,155.04109)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0397298"
+     inkscape:cx="241.88976"
+     inkscape:cy="95.945255"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13334)">
+    <g
+       id="g1143">
+      <g
+         id="g1117">
+        <rect
+           style="opacity:0;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.2886425;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815"
+           width="33.866665"
+           height="33.866665"
+           x="-4.5507812e-07"
+           y="263.13333" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:url(#radialGradient1098);fill-opacity:1;stroke:none;stroke-width:0.73205972;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 17.170206,264.13986 a 15.875,15.875 0 0 0 -15.8749997,15.875 15.875,15.875 0 0 0 15.8749997,15.875 15.875,15.875 0 0 0 7.574217,-1.94097 c 2.906498,0.4113 7.129279,1.64641 7.129279,1.64641 -0.610422,-3.46096 -0.852043,-5.38127 -0.751893,-8.01088 a 15.875,15.875 0 0 0 1.923397,-7.56956 15.875,15.875 0 0 0 -15.875,-15.875 z"
+           id="path1075" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:21.47147179px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#69194f;fill-opacity:1;stroke:none;stroke-width:0.53678691"
+           x="10.79982"
+           y="288.38794"
+           id="text1090"><tspan
+             sodipodi:role="line"
+             id="tspan1088"
+             x="10.79982"
+             y="288.38794"
+             style="fill:#69194f;fill-opacity:1;stroke-width:0.53678691">P</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
