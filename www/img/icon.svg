@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,7 +83,9 @@
      id="layer1"
      transform="translate(0,-263.13334)">
     <g
-       id="g1143">
+       id="g1143"
+       inkscape:export-xdpi="210.00002"
+       inkscape:export-ydpi="210.00002">
       <g
          id="g1117">
         <rect
