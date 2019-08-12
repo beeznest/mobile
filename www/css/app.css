@@ -11,9 +11,12 @@ hr {
 .container-fluid .navbar-collapse {
     margin-right: -15px;
 }
-
+.navbar-inverse .navbar-collapse{
+    border-color: #67820a;
+}
 .navbar-brand {
     color: #FFF;
+    font-size: 20px;
 }
 .navbar-inverse .navbar-brand{
     color: #b2dbfb;
@@ -102,6 +105,7 @@ hr {
 }
 .navbar-inverse .navbar-nav>li>a{
     color: #ffffff;
+    font-size: 16px;
 }
 .bold{
     font-weight: bold;
