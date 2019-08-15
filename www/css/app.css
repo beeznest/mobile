@@ -5,6 +5,53 @@ hr {
     margin: 10px 0;
 }
 
+.navbar {
+    font-size: 20px;
+}
+.navbar button {
+    background: transparent;
+    border: 0;
+    color: #EEE;
+    float: left;
+    margin-left: -15px;
+    padding: 17px 15px;
+    outline: 0 none;
+}
+.navbar button:hover,
+.navbar button:active {
+    color: #DDD;
+    outline: 0 none;
+}
+.navbar .navbar-text {
+    color: #EEE;
+    display: block;
+    float: left;
+    margin: 17px auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: calc(100% - 42px);
+}
+
+.navbar.navbar-btbb .navbar-text {
+    width: calc(100% - 42px - 87px);
+}
+.navbar.navbar-btbb button:not(:first-child) {
+    margin-left: 0;
+}
+.navbar.navbar-btbb button:last-child {
+
+    margin-right: -15px;
+}
+
+.navbar-header {
+    margin-left: 0 !important;
+    width: 50%;
+}
+.navbar-header button {
+    margin: 0 0 0 -15px;
+}
+
 .container > .navbar-header,
 .container-fluid .navbar-header,
 .container > .navbar-collapse,
@@ -123,6 +170,31 @@ hr {
     padding-bottom: 4px;
     padding-top: 4px;
 }
+.btn-reply{
+    color: #b2dbfb;
+    font-size: 2rem;
+    width: 32px;
+    position: absolute;
+    right: 0;
+    top: 18px;
+}
+.navigation{
+    color: #b2dbfb;
+    font-size: 2rem;
+    width: 70px;
+    position: absolute;
+    right: 0;
+    top: 15px;
+    display: flex;
+    text-align: right;
+}
+.navigation .navbar-brand{
+    padding: 5px;
+    width: 32px;
+}
+.btn-reply:hover{
+    color: #FFF;
+}
 .btn-back{
     color: #FFFFFF;
     padding-top: 15px;
@@ -175,10 +247,18 @@ hr {
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+    .navigation .navbar-brand {
+        padding: 5px;
+        width: 60px;
+    }
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+    .navigation .navbar-brand {
+        padding: 5px;
+        width: 60px;
+    }
 }
 
 /* Large devices (large desktops, 1200px and up) */
