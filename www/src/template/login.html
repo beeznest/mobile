@@ -9,13 +9,7 @@
             </div>
             <div id="div-alert"></div>
             <form action="#" class="form-login" id="frm-login" method="post">
-                <fieldset class="my-host">
-                    <legend class="app-text-normal bold"><%= lang.myChamilo %></legend>
-                    <div class="form-group">
-                        <label class="sr-only"><%= lang.domain %></label>
-                        <input type="url" name="hostname" id="txt-hostname" required class="form-control app-text-normal" placeholder="https://">
-                    </div>
-                </fieldset>
+                <input type="hidden" name="hostname" id="txt-hostname" required value="https://parkur.ofaj.org">
                 <fieldset class="my-host">
                     <legend class="app-text-normal bold"><%= lang.myAccount %></legend>
                     <div class="form-group">
