@@ -19,11 +19,13 @@
     <platform name="android">
         <allow-intent href="market:*" />
         <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+        <resource-file src="google-services.json" target="app/google-services.json" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
         <preference name="iosPersistentFileLocation" value="Compatibility" />
+        <resource-file src="GoogleService-Info.plist" />
     </platform>
     <plugin name="cordova-plugin-whitelist" spec="1" />
 </widget>
