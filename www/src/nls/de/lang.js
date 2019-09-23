@@ -1,7 +1,7 @@
 define({
-    appName: "Chamilo LMS Mobiel",
+    appName: "PARKUR",
     myChamilo: "Mein Chamilo LMS",
-    myCourses: 'Meine Kurse',
+    myCourses: 'Meine Lerninseln',
     domain: "Domaine",
     myAccount: "Mein Konto",
     username: "Benutzername",
